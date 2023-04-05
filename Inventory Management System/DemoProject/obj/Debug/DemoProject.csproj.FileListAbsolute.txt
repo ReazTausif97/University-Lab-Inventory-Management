@@ -1,0 +1,51 @@
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.AddRemove.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Chairman.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Coordinator1.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Coordinator2.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1A.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1Incharge.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1Load.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2A.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2Incharge.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2Load.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Form1.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1A.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1Incharge.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1Load.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2A.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2Incharge.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2Load.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.Cache
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\AniMuS\documents\visual studio 2015\Projects\DemoProject\DemoProject\obj\Debug\DemoProject.pdb
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.AddRemove.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.Chairman.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.Coordinator1.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.Coordinator2.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1A.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1Incharge.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab1Load.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2A.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2Incharge.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.FCLab2Load.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.Form1.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1A.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1Incharge.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab1Load.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2A.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2Incharge.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.PLab2Load.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\reazt\Downloads\Compressed\FINAL DEMO-20230405T210812Z-001\Inventory Management System\DemoProject\DemoProject\obj\Debug\DemoProject.pdb

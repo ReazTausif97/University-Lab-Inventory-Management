@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4726825F-2328-464E-9FF5-963944CBC6ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DemoProject</RootNamespace>
+    <AssemblyName>DemoProject</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddRemove.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddRemove.Designer.cs">
+      <DependentUpon>AddRemove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chairman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chairman.Designer.cs">
+      <DependentUpon>Chairman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Coordinator1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coordinator1.Designer.cs">
+      <DependentUpon>Coordinator1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coordinator2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coordinator2.Designer.cs">
+      <DependentUpon>Coordinator2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab1A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCLab1A.Designer.cs">
+      <DependentUpon>FCLab1A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab1Incharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCLab1Incharge.Designer.cs">
+      <DependentUpon>FCLab1Incharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab1Load.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FCLab1Load.Designer.cs">
+      <DependentUpon>FCLab1Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab2A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCLab2A.Designer.cs">
+      <DependentUpon>FCLab2A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab2Incharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FCLab2Incharge.Designer.cs">
+      <DependentUpon>FCLab2Incharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FCLab2Load.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FCLab2Load.Designer.cs">
+      <DependentUpon>FCLab2Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab1A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLab1A.Designer.cs">
+      <DependentUpon>PLab1A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab1Incharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLab1Incharge.Designer.cs">
+      <DependentUpon>PLab1Incharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab1Load.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PLab1Load.Designer.cs">
+      <DependentUpon>PLab1Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab2A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLab2A.Designer.cs">
+      <DependentUpon>PLab2A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab2Incharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PLab2Incharge.Designer.cs">
+      <DependentUpon>PLab2Incharge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PLab2Load.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PLab2Load.Designer.cs">
+      <DependentUpon>PLab2Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddRemove.resx">
+      <DependentUpon>AddRemove.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chairman.resx">
+      <DependentUpon>Chairman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coordinator1.resx">
+      <DependentUpon>Coordinator1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coordinator2.resx">
+      <DependentUpon>Coordinator2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab1A.resx">
+      <DependentUpon>FCLab1A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab1Incharge.resx">
+      <DependentUpon>FCLab1Incharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab1Load.resx">
+      <DependentUpon>FCLab1Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab2A.resx">
+      <DependentUpon>FCLab2A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab2Incharge.resx">
+      <DependentUpon>FCLab2Incharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FCLab2Load.resx">
+      <DependentUpon>FCLab2Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab1A.resx">
+      <DependentUpon>PLab1A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab1Incharge.resx">
+      <DependentUpon>PLab1Incharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab1Load.resx">
+      <DependentUpon>PLab1Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab2A.resx">
+      <DependentUpon>PLab2A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab2Incharge.resx">
+      <DependentUpon>PLab2Incharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PLab2Load.resx">
+      <DependentUpon>PLab2Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
